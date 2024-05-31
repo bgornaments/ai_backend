@@ -1,1 +1,1 @@
-# ai_backend
+# Generative AI Back-end Codebase
